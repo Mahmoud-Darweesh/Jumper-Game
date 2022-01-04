@@ -1,6 +1,12 @@
 # Jumper-Game
 A nice game to play and challenge you friends with!
 
+# Demo:
+
+Read the description of the game in itch.io to understand the controls.
+
+https://mahmouddarwish.itch.io/jumper-game
+
 ## The Introduction:
   I wanted to make a game that I could play with my friends so I decided to make something that resembled one of my favourite games, Mario.
 
